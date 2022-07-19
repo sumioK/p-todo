@@ -2,29 +2,29 @@ require "test_helper"
 
 class TasksControllerTest < ActionDispatch::IntegrationTest
   
-  test "the truth" do
-    assert true
-  end
+  # test "the truth" do
+  #   assert true
+  # end
 
-  test "sleep1" do
-    sleep 3
-    assert true
-  end
+  # test "sleep1" do
+  #   sleep 3
+  #   assert true
+  # end
   
-  test "sleep2" do
-    sleep 3
-    assert true
-  end
+  # test "sleep2" do
+  #   sleep 3
+  #   assert true
+  # end
 
-  test "sleep3" do
-    sleep 3
-    assert true
-  end
+  # test "sleep3" do
+  #   sleep 3
+  #   assert true
+  # end
 
-  test "sleep4" do
-    sleep 3
-    assert true
-  end
+  # test "sleep4" do
+  #   sleep 3
+  #   assert true
+  # end
   
   setup do
     @task = tasks(:one)
