@@ -5,3 +5,8 @@ one:
 
 two:
   content: MyText
+
+task:
+  title: sample
+  body: Task Body
+
