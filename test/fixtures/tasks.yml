@@ -7,6 +7,5 @@ two:
   content: MyText
 
 task:
-  title: sample
-  body: Task Body
+  content: content
 
