@@ -66,4 +66,11 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
+  gem 'rails-controller-testing'
+  gem 'minitest' 
+  gem 'minitest-reporters'
+  gem 'guard'
+  gem 'guard-minitest'
+  gem 'wdm', '>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+  gem 'rexml'
 end
